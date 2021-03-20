@@ -1,34 +1,37 @@
-# W3F Open Grant Proposal
+# Parallel Finance Open Grant Proposal
 
-> 🌏 This page is also available in [Chinese (中文)](./application-template-cn.md).
-> 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
-> 
-> See the [Open Grants Program Process](https://github.com/w3f/Open-Grants-Program/#pencil-process) on how to submit a proposal.
+* **Project Name:** Parallel Finance
+* **Team Name:** Parallel
+* **Payment Address:** 0x17816E9A858b161c3E37016D139cf618056CaCD4
 
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BTC or Ethereum (DAI) payment address. We don't accept payments for the program in other currencies at this stage. (e.g. 123mp123...)
-
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up: 
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
+Parallel finance a decentralized lending protocol built on top of the substrate framework and connect to the polkaodt ecosystem. Our platform will allow users to earn "double interests" from staking and lending their tokens simultaneously.
 
 ### Overview
 
-Please provide the following:
-  * If the name of your project is not descriptive, a tag line (one sentence summary).
-  * A brief description of your project.
-  * An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-  * An indication of why your team is interested in creating this project.
+Our platform offers a few key features and benefits:
+* Lending and borrowing: our decentralized platform will allow users to lend and borrow assets based on interest rates.
+* Staking: users can participate in Polkadot’s network validation and earn rewards. 
+* Earning double interests: users can choose to stake and lend out their tokens simultaneously based on our novel approach
+* Powered by Substrate: our platform benefits from the speed, resiliency and convenient upgradability of Polkadot
+
+Our project utilizes substrate framework and built on top of polkadot parachain ecosystem
+* We built the core interests model and functionalities on substrate runtime
+* We enable off-chain worker to query the current price feed of DOT and other tokens
+* We will build cross-chain interoperability using XCMP protocol 
+
+Why building Parallel Finance?
+* We decided to pick this idea because of the rising demand for decentralized lending protocols on Polkadot. We estimate that 50% of all existing Polkadot tokens will be staked to validate the Polkadot blockchain with a stalking APY of 20%. However, the staked tokens wouldn’t be liquid. Institutions and large token holders have high incentives to use our platform since it will allow them to participate in staking, as well as generating additional profits through lending, but also allow them to use their DOTs as payment, or asset to trade.
+
 
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+
+#### Mockups 
+
+more details see on www.parallel.fi
 
 * Mockups/designs of any UI components
 * Data models / API specifications of the core functionality
@@ -56,13 +59,16 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 * Names of team members	
 
 ### Contact
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
+* **Contact Name:** Yubo Ruan 
+* **Contact Email:** yubo@parallel.fi
 * **Website:**
+* www.parallel.fi
 
 ### Legal Structure 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+(we are in the process of register the legal entity)
+* **Registered Address:** N/A 
+* **Registered Legal Entity:** N/A
+
 
 ### Team's experience
 Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
