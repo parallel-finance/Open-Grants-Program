@@ -28,6 +28,7 @@ Why are we building Parallel Finance?
 
 ##### MVP links
 A working testnet demo can be found here: https://parallel.fi/#/
+
 Here's a video demo: https://youtu.be/lgQX9rELpL8
 
 #### Mockups and UI components
