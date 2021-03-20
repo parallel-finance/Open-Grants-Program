@@ -4,17 +4,16 @@
 * **Team Name:** Parallel
 * **Payment Address:** 0x17816E9A858b161c3E37016D139cf618056CaCD4
 
-
 ## Project Overview :page_facing_up: 
 
-Parallel finance is a decentralized lending/borrowing and staking protocol built on top of the substrate framework and connected to the Polkadot ecosystem. Our platform will allow users to earn "double interests" from staking and lending their tokens simultaneously.
+Parallel finance is a decentralized lending/borrowing and staking protocol built on top of the Polkadot ecosystem. Our platform will allow users to earn "double interests" from staking and lending their tokens simultaneously (hence the name "parallel" finance).
 
 ### Overview
 
 Our platform offers a few key features and benefits:
-* Lending and borrowing: our decentralized platform will allow users to lend and borrow assets based on interest rates.
+* Lending and borrowing: users can lend and borrow assets based on interest rates.
 * Staking: users can participate in Polkadot’s network validation and earn rewards. 
-* Earning double interests: users can choose to stake and lend out their tokens simultaneously based on our novel approach
+* Earning double interests: users can choose to stake and lend out their tokens simultaneously based on our new approach
 * Powered by Substrate: our platform benefits from the speed, resiliency and convenient upgradability of Polkadot
 
 Our project utilizes substrate framework and is built on top of polkadot parachain ecosystem:
@@ -23,8 +22,7 @@ Our project utilizes substrate framework and is built on top of polkadot paracha
 * We will build cross-chain interoperability using XCMP protocol in the near future
 
 Why are we building Parallel Finance?
-* We decided to pick this idea because of the rising demand for decentralized lending protocols on Polkadot. We estimate that 50% of all existing Polkadot tokens will be staked to validate the Polkadot blockchain with an estimated staking APY of 15-20%. However, once staked, the tokens will lose their liquidity. Institutions and large token holders have high incentives to use our platform since it will allow them to participate in staking, as well as generating additional profits through lending, and allowing them to use their DOTs as payment, or assets to trade.
-
+* We decided to pick this idea because of the rising demand for decentralized lending protocols on Polkadot, as well as the lack of token liquidity that comes with staking on the mainnet. We estimate that 50% of all existing Polkadot tokens will be staked to validate the Polkadot blockchain with an estimated staking APY of 15-20%. Based on the current model, the DOT and KSM tokens will lose their liquidity once they are staked to validate the network. Institutions and large token holders have high incentives to use our platform since it will allow them to participate in staking, as well as generating additional profits through lending, and allowing them to use their DOTs as payment, or assets to trade.
 
 ### Project Details 
 
@@ -45,38 +43,29 @@ Here's a video demo: https://youtu.be/lgQX9rELpL8
 The lending protocol was inspired by compound protocol and our blockchain solution is developed on substrate 3.0, which allows for efficiency and scalability.
 ![image](https://user-images.githubusercontent.com/40745291/111884823-41a43880-8981-11eb-9c94-1a8979c6a5b8.png)
 
-
 ##### Lending 
 ##### Interest Rate Model
 ##### Auto Liquidation Algorthm
 ##### Staking Workflow
 
-
 ##### What your project is _not_ or will _not_ provide or implement
-* Our team does not plan on implementing the support for other tokens besides the native DOT and KSM tokens and Stable Coin at the initial launch to reduce the risk for cross collaterals.
-* We will not implement a decentralized exchange by ourselves. We will be focusing on building a lending and staking protocol instead.
+* Our team does not plan on implementing the support for other tokens besides the native DOT and KSM tokens and Stable Coin at the initial launch to reduce the risks in cross-collaterals
+* We will not implement a decentralized exchange by ourselves. Instead, we will be focusing on building a lending/borrowing and staking protocol.
 
+### Ecosystem Fit  
 
-### Ecosystem Fit 
-
-The current decentralized lending protocol on polkadot lack of the support for staking the underlying assets and thus can not provide attractive rewards to users. As the first lending protocol to provide double interests, Parallel will be a great value-add to the Polkadot ecosystem as the rising demand. 
-
-* Where and how does your project fit into the ecosystem? We are aiming to offer the first decentralized lending/borrowing and staking protocol in the Polkadot ecosystem. We fit into the ecosystem as a DeFi and as a parachain.
-* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Our target audience are the DOT and KSM token holders who are looking to generate superior annual returns through staking and lending, and unlocking the liquidity for their staked tokens. We see a few different times of audience for our platform.
-  * General token holders who seek to earn interests or borrow assets
-  * Institutional and large token holders who seek to generate interests on their DOT and KSM portfolio. These group of people have a high incentive to contribute to the platform as early as possible as the exchange rates would be more favorable
-  * Validators and institutions who seek to generate extra returns by unlocking the liquidity for staked tokens and generate additional interests through lending
-  * Traders who can spot arbitrage opportunities in the DeFi space
-* What need(s) does your project meet? Our project help generate superior interests for token holders, and unlock liquidity for token stakers
+* Where and how does your project fit into the ecosystem? We are aiming to offer the first decentralized lending/borrowing and staking protocol in the Polkadot ecosystem as a DeFi and a parachain.
+* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? Our target audience are the DOT and KSM token holders who are looking to participate in lending/borrowing, staking and unlocking liquidity for their tokens, or generating "double interests" returns by lending and staking simultaneously. This audience would include retail, institutional and large token holders, traders (arbitrage opportunities in DeFi) and network validators. In general, large token holders will have a higher incentive to join the platform earlier as the exchange rate will be more favorable.
+* What need(s) does your project meet? Our project help generate additional interests for token holders, provide assets for borrowing and unlock liquidity for token stakers who can use staked tokens (ex: xDOT) to trade, lend or use as payment.
 * Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem? 
-  * If so, how is your project different? Compound has been a successful and proven model for lending and borrowing assets in a decentralized manner on the Ethereum ecosystem. However, Compound doesn't offer staking services, and there is currently no decentralized lending solution in the Polkadot ecosystem. Acala Network does offer staking services, but doesn't offer lending/borrowing services. From that perspective, we are a unique solution that combines both services in the hope of offering superior returns to our users.
-  * If not, are there similar projects in related ecosystems? We have not yet found a project that will be focusing on generating double interests for token holders
+  * If so, how is your project different? Compound has been a successful and proven model for lending and borrowing assets in a decentralized manner in the Ethereum ecosystem. However, Compound doesn't offer staking services, and there is currently no decentralized lending/borrowing solution launched in the Polkadot ecosystem. Acala Network does offer staking services, but doesn't offer lending/borrowing services. From that perspective, we are a unique solution that combines both services and offers additional interests to our users.
+  * If not, are there similar projects in related ecosystems? We have not yet found a project that will be focusing on generating double interests for token holders through lending and staking
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 * Name of team leader: Yubo Ruan
-* Names of team members: 	
+* Names of team members: 	Remi Gai, Zhou Yang, Li Pai, Cheng Jiang, Hai Yi
 
 ### Contact
 * **Contact Name:** Yubo Ruan 
@@ -96,12 +85,16 @@ Please describe the team's relevant experience. If your project involves develop
 If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Code Repos
-* https://github.com/<your_repo_1>
-* https://github.com/<your_repo_2>
+* https://github.com/yubo-ruan
+* https://github.com/yz89
+* https://github.com/GopherJ
+* https://github.com/remi-gai
+* https://github.com/MrPai
+* https://github.com/haiyizxx
 
 ### Team LinkedIn Profiles
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+* https://www.linkedin.com/in/yubo-ruan/
+* https://www.linkedin.com/in/remigai/
 
 ## Development Status :open_book: 
 
