@@ -7,7 +7,7 @@
 
 ## Project Overview :page_facing_up: 
 
-Parallel finance a decentralized lending protocol built on top of the substrate framework and connect to the polkaodt ecosystem. Our platform will allow users to earn "double interests" from staking and lending their tokens simultaneously.
+Parallel finance a decentralized lending protocol built on top of the substrate framework and connected to the Polkadot ecosystem. Our platform will allow users to earn "double interests" from staking and lending their tokens simultaneously.
 
 ### Overview
 
@@ -17,17 +17,20 @@ Our platform offers a few key features and benefits:
 * Earning double interests: users can choose to stake and lend out their tokens simultaneously based on our novel approach
 * Powered by Substrate: our platform benefits from the speed, resiliency and convenient upgradability of Polkadot
 
-Our project utilizes substrate framework and built on top of polkadot parachain ecosystem
+Our project utilizes substrate framework and is built on top of polkadot parachain ecosystem:
 * We built the core interests model and functionalities on substrate runtime
-* We enable off-chain worker to query the current price feed of DOT and other tokens
-* We will build cross-chain interoperability using XCMP protocol 
+* We enabled off-chain worker to query the current price feed of DOT and other tokens
+* We will build cross-chain interoperability using XCMP protocol in the near future
 
 Why building Parallel Finance?
-* We decided to pick this idea because of the rising demand for decentralized lending protocols on Polkadot. We estimate that 50% of all existing Polkadot tokens will be staked to validate the Polkadot blockchain with a stalking APY of 20%. However, the staked tokens wouldn’t be liquid. Institutions and large token holders have high incentives to use our platform since it will allow them to participate in staking, as well as generating additional profits through lending, but also allow them to use their DOTs as payment, or asset to trade.
+* We decided to pick this idea because of the rising demand for decentralized lending protocols on Polkadot. We estimate that 50% of all existing Polkadot tokens will be staked to validate the Polkadot blockchain with an estimated staking APY of 15-20%. However, once staked, the tokens will lose their liquidity. Institutions and large token holders have high incentives to use our platform since it will allow them to participate in staking, as well as generating additional profits through lending, and allowing them to use their DOTs as payment, or assets to trade.
 
 
 ### Project Details 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+
+##### MVP links
+A working testnet demo can be found here: https://parallel.fi/#/
+Here's a video demo: https://youtu.be/lgQX9rELpL8
 
 #### Mockups and UI components
 ![image](https://user-images.githubusercontent.com/40745291/111884834-5f719d80-8981-11eb-84cf-df6494f05650.png)
@@ -50,11 +53,8 @@ The lending protocol was inspired by compound protocol and our blockchain soluti
 
 
 ##### What your project is _not_ or will _not_ provide or implement
-* Our team does not plan to implement support for tokens besides native token (DOT and KSM) and Stable Coin at the initial launch. We consider the risk of collateral and we will not open for the 
-* We will not implement decentralized exchange by ourselves. We will be focusing on building lending protocol. 
-
-##### MVP
-more details see on www.parallel.fi
+* Our team does not plan on implementing the support for other tokens besides the native DOT and KSM tokens and Stable Coin at the initial launch to reduce the risk for cross collaterals.
+* We will not implement a decentralized exchange by ourselves. We will be focusing on building a lending and staking protocol instead.
 
 
 ### Ecosystem Fit 
