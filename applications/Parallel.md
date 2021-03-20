@@ -29,22 +29,39 @@ Why building Parallel Finance?
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-#### Mockups 
+#### Mockups and UI components
+![image](https://user-images.githubusercontent.com/40745291/111884834-5f719d80-8981-11eb-84cf-df6494f05650.png)
+![image](https://user-images.githubusercontent.com/40745291/111884839-68626f00-8981-11eb-94ae-750dfab5e951.png)
+![image](https://user-images.githubusercontent.com/40745291/111884847-6d272300-8981-11eb-9bac-81514f1f8358.png)
+![image](https://user-images.githubusercontent.com/40745291/111884852-70baaa00-8981-11eb-8b42-ba6aa5045afb.png)
+![image](https://user-images.githubusercontent.com/40745291/111884855-76b08b00-8981-11eb-9dc4-0a2e49845aa7.png)
+![image](https://user-images.githubusercontent.com/40745291/111884857-7b753f00-8981-11eb-9197-73cd29ddb4b8.png)
 
+##### An overview of the technology stack to be used
+
+The lending protocol was inspired by compound protocol and our blockchain solution is developed on substrate 3.0, which allows for efficiency and scalability.
+![image](https://user-images.githubusercontent.com/40745291/111884823-41a43880-8981-11eb-9c94-1a8979c6a5b8.png)
+
+
+##### Lending 
+##### Interest Rate Model
+##### Auto Liquidation Algorthm
+##### Staking Workflwo
+
+
+##### What your project is _not_ or will _not_ provide or implement
+* Our team does not plan to implement support for tokens besides native token (DOT and KSM) and Stable Coin at the initial launch. We consider the risk of collateral and we will not open for the 
+* We will not implement decentralized exchange by ourselves. We will be focusing on building lending protocol. 
+
+##### MVP
 more details see on www.parallel.fi
 
-* Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
-* What your project is _not_ or will _not_ provide or implement
-  * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit 
 
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
+The current decentralized lending protocol on polkadot lack of the support for staking the underlying assets and thus can not provide attractive rewards to users. As the first lending protocol to provide double interests, Parallel will be a great value-add to the Polkadot ecosystem as the rising demand. 
 
+We are developing the whole project on top of substrate framework. We build 
 * Where and how does your project fit into the ecosystem? 
 * Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
 * What need(s) does your project meet? 
@@ -55,8 +72,8 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 ## Team :busts_in_silhouette:
 
 ### Team members
-* Name of team leader
-* Names of team members	
+* Name of team leader: Yubo Ruan
+* Names of team members: 	
 
 ### Contact
 * **Contact Name:** Yubo Ruan 
