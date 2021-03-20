@@ -46,7 +46,7 @@ The lending protocol was inspired by compound protocol and our blockchain soluti
 ##### Lending 
 ##### Interest Rate Model
 ##### Auto Liquidation Algorthm
-##### Staking Workflwo
+##### Staking Workflow
 
 
 ##### What your project is _not_ or will _not_ provide or implement
@@ -134,10 +134,10 @@ To assist you in defining it, we have created a document with examples for some 
 * **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
 * **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants_ and $100k for follow-up grants. (e.g. 12,000 USD)
 
-### Milestone 1 Example — Implement Substrate Modules 
-* **Estimated Duration:** 1 month
+### Milestone 1 Example — Implement Cross-chain support for DOT and KSM 
+* **Estimated Duration:** 8 weeks 
 * **FTE:**  2
-* **Costs:** 8,000 USD
+* **Costs:** 15,000 USD
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -154,7 +154,7 @@ To assist you in defining it, we have created a document with examples for some 
 
 ### Milestone 2 Example — Additional features
 
-* **Estimated Duration:** 1 month
+* **Estimated Duration:** 2 month
 * **FTE:**  1
 * **Costs:** 4,000 USD
 
