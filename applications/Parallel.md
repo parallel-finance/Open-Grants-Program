@@ -11,10 +11,10 @@ Parallel finance is a decentralized lending/borrowing and staking protocol built
 ### Overview
 
 Our platform offers a few key features and benefits:
-* **boldLending and borrowing**: users can lend and borrow assets based on interest rates.
-* **boldStaking**: users can participate in Polkadot’s network validation and earn rewards. 
-* **boldEarning double interests**: users can choose to stake and lend out their tokens simultaneously based on our new approach
-* **boldPowered by Substrate**: our platform benefits from the speed, resiliency and convenient upgradability of Polkadot
+* **Lending and borrowing**: users can lend and borrow assets based on interest rates.
+* **Staking**: users can participate in Polkadot’s network validation and earn rewards. 
+* **Earning double interests**: users can choose to stake and lend out their tokens simultaneously based on our new approach
+* **Powered by Substrate**: our platform benefits from the speed, resiliency and convenient upgradability of Polkadot
 
 Our project utilizes substrate framework and is built on top of polkadot parachain ecosystem:
 * We built the core interests model and functionalities on substrate runtime
