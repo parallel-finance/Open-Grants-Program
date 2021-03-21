@@ -135,7 +135,7 @@ To assist you in defining it, we have created a document with examples for some 
 ### Milestone 1 — Implement Cross-chain support for DOT and KSM 
 * **Estimated Duration:** 8 weeks 
 * **FTE:**  2
-* **Costs:** 15,000 USD
+* **Costs:** 8.3 ETH (15,000 USD at $1,802/ETH)
 
 The major deliverable of for this milestone:
 * Develop cross-chain capabilities between DOT and KSM tokens
