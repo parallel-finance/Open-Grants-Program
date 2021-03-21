@@ -44,9 +44,9 @@ Video demo: https://youtu.be/lgQX9rELpL8
 The lending protocol was inspired by compound protocol and our blockchain solution is developed on substrate 3.0, which allows for efficiency and scalability.
 
 ##### Lending and Borrowing Workflow
-![image](https://user-images.githubusercontent.com/56744348/111891848-070fbf80-89c4-11eb-8d15-c3ee5fcb7cf3.png)
-##### Interest Rate Model
 ![image](https://user-images.githubusercontent.com/56744348/111891853-0aa34680-89c4-11eb-8657-7396d1ab154d.png)
+##### Interest Rate Model
+![image](https://user-images.githubusercontent.com/56744348/111891848-070fbf80-89c4-11eb-8d15-c3ee5fcb7cf3.png)
 ##### Auto Liquidation Algorithm
 ![image](https://user-images.githubusercontent.com/56744348/111891839-f19a9580-89c3-11eb-9c08-2094e1aa5972.png)
 ##### Staking Workflow
