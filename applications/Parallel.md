@@ -194,3 +194,5 @@ Email: team@parallel.fi
 Website: parallel.fi
 Twitter: https://twitter.com/ParallelFi
 Unofficial white paper: https://docs.parallel.fi/
+Testnet demo: https://parallel.fi/#/app
+Video demo (Hackathon March 2021): https://youtu.be/lgQX9rELpL8
