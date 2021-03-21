@@ -90,38 +90,14 @@ Please describe the team's relevant experience. If your project involves develop
 If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Code Repos
-* https://github.com/yubo-ruan
-* https://github.com/yz89
-* https://github.com/GopherJ
-* https://github.com/remi-gai
-* https://github.com/MrPai
-* https://github.com/haiyizxx
+* Backend: https://github.com/parallel-finance/hackathon-2021-spring/tree/main/teams/22-Parallel/src/parallel
+* Frontend: https://github.com/parallel-finance/hackathon-2021-spring/tree/main/teams/22-Parallel/src/parallel-dapp
 
 ### Team LinkedIn Profiles
 * https://www.linkedin.com/in/yubo-ruan/
 * https://www.linkedin.com/in/remigai/
 
-## Development Status :open_book: 
-
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/w3f/General-Grants-Program/tree/master/rfp-proposal) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Web3 Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
-
 ## Development Roadmap :nut_and_bolt: 
-
-To assist you in defining it, we have created a document with examples for some grant categories [here](../src/grant_guidelines_per_category.md).
-* include the amount of funding requested _per milestone_.
-* include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-* provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-* commit to providing Dockerfiles for the delivery of your project. 
-* indicate milestone duration as well as number of full-time employees working on each milestone, and include the approximate number of days along with the cost per day.
-* _Deliverables 0a-0d are mandatory_ and shall not be removed, unless you explicitly specify a reason within the PR's `Additional Notes` section (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
 * **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
@@ -177,8 +153,6 @@ The major deliverable of for this milestone:
 | 3.b | Article/Tutorial | We will create an article and a video demo that explains how users can start using the platform for staking for DOT and KSM. Additionally, we will also create tutorials to walk show the users how they can earn "double interests" through staking and lending at the same time via xDOT and xKSM |  
 |3.c | Docker | We will provide a dockerfile to demonstrate the end-to-end use case of Staking/Unstaking DOT and KSM tokens  | 
 | 4. | User Testing | We will conduct user testing to improve our product's UX and UI, to ensure that the staking functionalities are intuitive  |   
-
-
 
 ## Future Plans
 
