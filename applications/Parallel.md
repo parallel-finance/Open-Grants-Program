@@ -87,7 +87,7 @@ The lending protocol was inspired by compound protocol and our blockchain soluti
 ### Team's experience
 * Yubo Ruan:
 * Zhou Yang:
-* **Remi Gai**: Remi is a software engineer with a background in product management, entrepreneurship and venture capital, and currently works at Microsoft. Previously, Remi worked as an early stage investor at 8 Decimal Capital, a crypto/blockchain focused fund, and was the co-founder and Product Lead of a blockchain development firm, Bitsystems, based in Cambridge, Massachusetts.
+* **Remi Gai**: Remi is a software engineer with a background in product management, entrepreneurship and venture capital, and currently works at Microsoft. Previously, Remi worked as an early stage investor at 8 Decimal Capital, a crypto/blockchain focused fund, and was the co-founder of Bitsystems, a blockchain development firm based in Cambridge, Massachusetts.
 * Li Pai:
 * Cheng Jiang:
 * Hai Yi:
