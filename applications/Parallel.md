@@ -110,13 +110,6 @@ If you've already started implementing your project or it is part of a larger re
 
 ## Development Roadmap :nut_and_bolt: 
 
-This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Substrate, Kusama or Polkadot. We _recommend_ that the scope of the work can fit within a three-month period and that teams structure their roadmap as 1 milestone ≈ 1 month. 
-
-For each milestone,
-
-* make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
 To assist you in defining it, we have created a document with examples for some grant categories [here](../src/grant_guidelines_per_category.md).
 * include the amount of funding requested _per milestone_.
 * include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
@@ -133,7 +126,7 @@ To assist you in defining it, we have created a document with examples for some 
 * **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants_ and $100k for follow-up grants. (e.g. 12,000 USD)
 
 ### Milestone 1 — Implement Cross-chain support for DOT and KSM 
-* **Estimated Duration:** 8 weeks 
+* **Estimated Duration:** 4 weeks 
 * **FTE:**  2
 * **Costs:** 8.333 ETH (15,000 USD at $1,802/ETH)
 
@@ -145,16 +138,17 @@ The major deliverable of for this milestone:
 | -----: | ----------- | ------------- |
 | 0 | License | Apache 2.0 / MIT / Unlicense |
 | 1.a | Substrate module: DOT | We will create a Substrate module that will..... enable some kind of cross-chain feature with DOT|  
-| 1.b | Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>70%) to ensure quality and provide explanations on how the functions work for the community to review|  
+| 1.b | Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>80%) to ensure quality and provide explanations on how the functions work for the community to review, as well as craft test guides|  
 | 2.a | Substrate module: KSM | We will create a Substrate module that will..... enable some kind of cross-chain feature with KSM|  
-| 2.b | Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>70%) to ensure quality and provide explanations on how the functions work for the community to review|  
+| 2.b | Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>80%) to ensure quality and provide explanations on how the functions work for the community to review, as well as craft test guides|  
 | 3.a | Integration with front-end | We will integrate our existing front end to the finalized substrate backend |  
 | 3.b | Article/Tutorial | We will create an article and a video demo that explains how users can start using the platform in lending and borrowing for DOT and KSM |  
+|3.c | Docker | We will provide a dockerfile to demonstrate the full cross-chain functionality | 
 | 4. | User Testing | We will conduct user testing to improve our product's UX and UI, to ensure that the borrowing and lending functionalities are intuitive  |  
 
 ### Milestone 2 — Enable Staking for DOT
 
-* **Estimated Duration:** 8 weeks 
+* **Estimated Duration:** 4 weeks 
 * **FTE:**  2
 * **Costs:** 8.333 ETH (15,000 USD at $1,802/ETH)
 
@@ -173,12 +167,13 @@ The major deliverable of for this milestone:
 | 1.b | Substrate module: Unstaking DOT | We will implement a 28 days locking period for the unstaking process of DOT tokens from validators|  
 | 1.c | Substrate module: Exchange Rate | We will implement a the process for issuing and trading DOT for xDOT with the users based on our exchange rate|  
 | 1.d | Substrate module: Slashing Scenario  | Staking tokens does have inherent risks of being slashed. We will implement our model that will change the exchange rate in case of slashing scenarios|  
-| 1.e | Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>70%) to ensure quality and provide explanations on how the functions work for the community to review|  
+| 1.e | Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>80%) to ensure quality and provide explanations on how the functions work for the community to review, as well as craft test guides|  
 | 2.a | Substrate module: KSM | Since DOT and KSM will have similar code, we will mainly transfer over some of the previous development to allow for KSM staking|  
-| 2b| Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>70%) to ensure quality and provide explanations on how the functions work|  
+| 2b| Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>80%) to ensure quality and provide explanations on how the functions work for the community to review, as well as craft test guides|  
 | 3.a | Integration with front-end | We will integrate our existing front end to the finalized substrate backend |  
 | 3.b | Article/Tutorial | We will create an article and a video demo that explains how users can start using the platform for staking for DOT and KSM. Additionally, we will also create tutorials to walk show the users how they can earn "double interests" through staking and lending at the same time via xDOT and xKSM |  
-| 4. | User Testing | We will conduct user testing to improve our product's UX and UI, to ensure that the staking functionalities are intuitive  |  
+|3.c | Docker | We will provide a dockerfile to demonstrate the end-to-end use case of Staking/Unstaking DOT and KSM tokens  | 
+| 4. | User Testing | We will conduct user testing to improve our product's UX and UI, to ensure that the staking functionalities are intuitive  |   
 
 
 
