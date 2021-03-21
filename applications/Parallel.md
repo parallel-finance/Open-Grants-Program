@@ -13,8 +13,8 @@ Parallel finance is a decentralized lending/borrowing and staking protocol built
 Our platform offers a few key features and benefits:
 * **Lending and borrowing**: users can lend and borrow assets based on interest rates.
 * **Staking**: users can participate in Polkadot’s network validation and earn rewards. 
-* **Earning double interests**: users can choose to stake and lend out their tokens simultaneously based on our new approach
-* **Powered by Substrate**: our platform benefits from the speed, resiliency and convenient upgradability of Polkadot
+* **Earning double interests**: users can choose to stake and lend out their tokens simultaneously based on our new approach.
+* **Powered by Substrate**: our platform benefits from the speed, resiliency and convenient upgradability of Polkadot.
 
 Our project utilizes substrate framework and is built on top of polkadot parachain ecosystem:
 * We built the core interests model and functionalities on substrate runtime
@@ -22,7 +22,7 @@ Our project utilizes substrate framework and is built on top of polkadot paracha
 * We will build cross-chain interoperability using XCMP protocol in the near future
 
 **Why are we building Parallel Finance?**
-* We decided to pick this idea because of the rising demand for decentralized lending protocols on Polkadot, as well as the lack of token liquidity that comes with staking on the mainnet. We estimate that 50% of all existing Polkadot tokens will be staked to validate the Polkadot blockchain with an estimated staking APY of 15-20%. Based on the current model, the DOT and KSM tokens will lose their liquidity once they are staked to validate the network. Institutions and large token holders have high incentives to use our platform since it will allow them to participate in staking, as well as generating additional profits through lending, and allowing them to use their DOTs as payment, or assets to trade.
+* We decided to pick this idea because of the rising demand for decentralized lending protocols on Polkadot and Kusama, as well as the lack of token liquidity that comes with staking on the mainnet. We estimate that 50% of all existing DOT and KSM tokens will be staked for blockchain validation with an estimated staking APY of 10-20%. However, the DOT and KSM tokens will lose their liquidity once they are staked to validate the network. Institutions and large token holders have high incentives to use our platform since it will allow them to not only participate in staking, but also generate additional profits through lending, and allow them to use their DOTs and KSMs as payment, or trading assets.
 
 ### Project Details 
 
