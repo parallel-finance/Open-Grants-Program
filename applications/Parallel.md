@@ -54,17 +54,17 @@ The lending protocol was inspired by compound protocol and our blockchain soluti
 ![image](https://user-images.githubusercontent.com/56744348/111891842-f8c1a380-89c3-11eb-9210-1bf0bbd9ed83.png)
 
 ##### What your project is _not_ or will _not_ provide or implement
-* Our team does not plan on implementing the support for other tokens besides the native DOT and KSM tokens and Stable Coin at the initial launch to reduce the risks in cross-collaterals
-* We will not implement a decentralized exchange by ourselves. Instead, we will be focusing on building a lending/borrowing and staking protocol.
+* Our team does not plan on implementing the support for other tokens besides the native DOT and KSM tokens and Stable Coin at the initial launch in order to reduce the risks in cross-collaterals
+* We will not implement a decentralized exchange by ourselves. Instead, we will be focusing on building the lending/borrowing and staking protocol.
 
 ### Ecosystem Fit  
 
-* **Where and how does your project fit into the ecosystem?** We are aiming to offer the first decentralized lending/borrowing and staking protocol in the Polkadot ecosystem as a DeFi and a parachain.
-* **Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** Our target audience are the DOT and KSM token holders who are looking to participate in lending/borrowing, staking and unlocking liquidity for their tokens, or generating "double interests" returns by lending and staking simultaneously. This audience would include retail, institutional and large token holders, traders (arbitrage opportunities in DeFi) and network validators. In general, large token holders will have a higher incentive to join the platform earlier as the exchange rate will be more favorable.
+* **Where and how does your project fit into the ecosystem?** We are aiming to offer the first decentralized lending/borrowing and staking protocol in the Polkadot and Kusama ecosystem as a DeFi and a parachain.
+* **Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?** Our target audience are the DOT and KSM token holders who are looking to participate in lending/borrowing, staking and unlocking liquidity for their staked tokens, or generating "double interests" returns by lending and staking simultaneously. This audience would include retail, institutional and large token holders, traders (arbitrage opportunities in DeFi) and network validators. In general, large token holders will have a higher incentive to join the platform earlier as the exchange rate will be more favorable.
 * **What need(s) does your project meet?** Our project helps generate additional interests for token holders, provide assets for borrowing and unlock liquidity for token stakers who can use staked tokens (ex: xDOT) to trade, lend or use as payment.
 * **Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?** 
   * **If so, how is your project different?** Compound has been a successful and proven model for lending and borrowing assets in a decentralized manner in the Ethereum ecosystem. However, Compound doesn't offer staking services, and there is currently no decentralized lending/borrowing solution launched in the Polkadot ecosystem. Acala Network does offer staking services, but doesn't offer lending/borrowing services. From that perspective, we are a unique solution that combines both services and offers additional interests to our users.
-  * **If not, are there similar projects in related ecosystems?** We have not yet found a project that will be focusing on generating double interests for token holders through lending and staking
+  * **If not, are there similar projects in related ecosystems?** We have not yet found a project that will be focusing on generating double interests for token holders through lending and staking.
 
 ## Team :busts_in_silhouette:
 
@@ -85,8 +85,14 @@ The lending protocol was inspired by compound protocol and our blockchain soluti
 
 
 ### Team's experience
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
+* Yubo Ruan:
+* Zhou Yang:
+* **Remi Gai**: Remi is a software engineer with a background in product management, entrepreneurship and venture capital, and currently works at Microsoft. Previously, Remi worked as an early stage investor at 8 Decimal Capital, a crypto/blockchain focused fund, and was the co-founder and Product Lead of a blockchain development firm, Bitsystems, based in Cambridge, Massachusetts.
+* Li Pai:
+* Cheng Jiang:
+* Hai Yi:
 
+Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
 If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Code Repos
@@ -100,12 +106,9 @@ If anyone on your team has applied for a grant at the Web3 Foundation previously
 ## Development Roadmap :nut_and_bolt: 
 
 ### Overview
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants_ and $100k for follow-up grants. (e.g. 12,000 USD)
 
 ### Milestone 1 — Implement Cross-chain support for DOT and KSM 
-* **Estimated Duration:** 4 weeks 
+* **Estimated Duration:** 8 weeks 
 * **FTE:**  2
 * **Costs:** 8.333 ETH (15,000 USD at $1,802/ETH)
 
@@ -127,7 +130,7 @@ The major deliverable of for this milestone:
 
 ### Milestone 2 — Enable Staking for DOT
 
-* **Estimated Duration:** 4 weeks 
+* **Estimated Duration:** 8 weeks 
 * **FTE:**  2
 * **Costs:** 8.333 ETH (15,000 USD at $1,802/ETH)
 
