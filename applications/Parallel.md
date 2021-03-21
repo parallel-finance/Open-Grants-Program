@@ -194,13 +194,13 @@ The major deliverable of for this milestone:
 
 ## Additional Information :heavy_plus_sign: 
 
-We are a team that met and formed during the March 2021 Polkadot Hackathon in Shanghai. Our team members are both in the US and China, and come from a background in engineering (crypto/blockchain, traditional tech company), product management and financial background (venture capital, Defi). We were able to deliver our proof of concept at a really quick pace, earning second spot during the preliminary rounds.
+* We are a team that met and formed during the March 2021 Polkadot Hackathon in Shanghai. Our team members are both in the US and China, and come from a background in engineering (crypto/blockchain, traditional tech company), product management and financial background (venture capital, Defi). We were able to deliver our proof of concept at a really quick pace, earning second spot during the preliminary rounds.
 
-We are currently still in the process of creating our white paper, but you can find more details about our platform on our gitbook: https://docs.parallel.fi/.
+* We are currently still in the process of creating our white paper, but you can find more details about our platform on our gitbook: https://docs.parallel.fi/.
 
-Email: team@parallel.fi
-Website: parallel.fi
-Twitter: https://twitter.com/ParallelFi
-Unofficial white paper: https://docs.parallel.fi/
-Testnet demo: https://parallel.fi/#/app
-Video demo (Hackathon March 2021): https://youtu.be/lgQX9rELpL8
+* Email: team@parallel.fi
+* Website: parallel.fi
+* Twitter: https://twitter.com/ParallelFi
+* Unofficial white paper: https://docs.parallel.fi/
+* Testnet demo: https://parallel.fi/#/app
+* Video demo (Hackathon March 2021): https://youtu.be/lgQX9rELpL8
