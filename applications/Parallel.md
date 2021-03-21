@@ -42,13 +42,18 @@ Video demo: https://youtu.be/lgQX9rELpL8
 ##### An overview of the technology stack to be used
 
 The lending protocol was inspired by compound protocol and our blockchain solution is developed on substrate 3.0, which allows for efficiency and scalability.
-![image](https://user-images.githubusercontent.com/40745291/111884823-41a43880-8981-11eb-9c94-1a8979c6a5b8.png)
 
 ##### Lending and Borrowing Workflow
+![image](https://user-images.githubusercontent.com/56744348/111891848-070fbf80-89c4-11eb-8d15-c3ee5fcb7cf3.png)
 ##### Interest Rate Model
+![image](https://user-images.githubusercontent.com/56744348/111891853-0aa34680-89c4-11eb-8657-7396d1ab154d.png)
 ##### Auto Liquidation Algorithm
+![image](https://user-images.githubusercontent.com/56744348/111891839-f19a9580-89c3-11eb-9c08-2094e1aa5972.png)
 ##### Staking Workflow
+![image](https://user-images.githubusercontent.com/56744348/111891844-ff501b00-89c3-11eb-829d-130d6bb48e67.png)
 ##### Staking Rate Model
+![image](https://user-images.githubusercontent.com/56744348/111891842-f8c1a380-89c3-11eb-9210-1bf0bbd9ed83.png)
+
 
 ##### What your project is _not_ or will _not_ provide or implement
 * Our team does not plan on implementing the support for other tokens besides the native DOT and KSM tokens and Stable Coin at the initial launch to reduce the risks in cross-collaterals
