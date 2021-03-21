@@ -178,6 +178,8 @@ The major deliverable of for this milestone:
 * Email: team@parallel.fi
 * Website: parallel.fi
 * Twitter: https://twitter.com/ParallelFi
+* Medium: https://medium.com/@parallelfinance
+* LinkedIn: https://www.linkedin.com/company/parallel-finance/
 * Unofficial white paper: https://docs.parallel.fi/
 * Testnet demo: https://parallel.fi/#/app
 * Video demo (Hackathon March 2021): https://youtu.be/lgQX9rELpL8
