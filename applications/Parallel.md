@@ -186,4 +186,11 @@ The major deliverable of for this milestone:
 
 ## Additional Information :heavy_plus_sign: 
 
-We are a team that met and formed during the Polkadot Hackthon in Shanghai, and we have been able to deliver our proof of concept at a really quick pace.
+We are a team that met and formed during the March 2021 Polkadot Hackathon in Shanghai. Our team members are both in the US and China, and we have been able to deliver our proof of concept at a really quick pace, earning second spot during the preliminary rounds.
+
+We are currently still in the process of creating our white paper, but you can find more details about our platform on our gitbook: https://docs.parallel.fi/.
+
+Email: team@parallel.fi
+Website: parallel.fi
+Twitter: https://twitter.com/ParallelFi
+Unofficial white paper: https://docs.parallel.fi/
