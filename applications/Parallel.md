@@ -138,8 +138,8 @@ To assist you in defining it, we have created a document with examples for some 
 * **Costs:** 15,000 USD
 
 The major deliverable of for this milestone:
--Develop cross-chain capabilities between DOT and KSM tokens
--For example, users will be able to deposit DOT tokens as collateral and borrow KSM tokens
+* Develop cross-chain capabilities between DOT and KSM tokens
+* Users will be able to deposit DOT tokens as collateral and borrow KSM tokens through our web app
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
