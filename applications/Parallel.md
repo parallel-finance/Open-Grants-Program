@@ -132,22 +132,25 @@ To assist you in defining it, we have created a document with examples for some 
 * **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
 * **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants_ and $100k for follow-up grants. (e.g. 12,000 USD)
 
-### Milestone 1 Example — Implement Cross-chain support for DOT and KSM 
+### Milestone 1 — Implement Cross-chain support for DOT and KSM 
 * **Estimated Duration:** 8 weeks 
 * **FTE:**  2
 * **Costs:** 15,000 USD
 
+The major deliverable of for this milestone:
+-Develop cross-chain capabilities between DOT and KSM tokens
+-For example, users will be able to deposit DOT tokens as collateral and borrow KSM tokens
+
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicense |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. | 
-| 0d. | Article/Tutorial | We will publish an article/tutorial/workshop that explains [...] (what was done/achieved as part of the grant). (Content, language and medium should reflect your target audience described above.)
-| 1. | Substrate module: X | We will create a Substrate module that will... (Please list the functionality that will be coded for the first milestone) |  
-| 2. | Substrate module: Y | We will create a Substrate module that will... |  
-| 3. | Substrate module: Z | We will create a Substrate module that will... |  
-| 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
-| 5. | Docker | We will provide a dockerfile to demonstrate the full functionality of our chain |
+| 0 | License | Apache 2.0 / MIT / Unlicense |
+| 1.a | Substrate module: DOT | We will create a Substrate module that will..... enable some kind of cross-chain feature with DOT|  
+| 1.b | Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>70%) to ensure quality and provide explanations on how the functions work|  
+| 2.a | Substrate module: KSM | We will create a Substrate module that will..... enable some kind of cross-chain feature with KSM|  
+| 2.b | Testing and Documentation | While we develop our module, we will ensure that our code has significant test coverage (>70%) to ensure quality and provide explanations on how the functions work|  
+| 3.a | Integration with front-end | We will integrate our existing front end to the finalized substrate backend |  
+| 3.b | Article/Tutorial | We will create an article and a video demo that explains how users can start using the platform in lending and borrowing for DOT and KSM |  
+| 4. | User Testing | We will conduct user testing to improve our product's UX and UI, to ensure that the borrowing and lending functionalities are intuitive  |  
 
 
 ### Milestone 2 Example — Additional features
