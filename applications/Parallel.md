@@ -128,7 +128,7 @@ The major deliverable of for this milestone:
 |3.c | Docker | We will provide a dockerfile to demonstrate the full cross-chain functionality | 
 | 4. | User Testing | We will conduct user testing to improve our product's UX and UI, to ensure that the borrowing and lending functionalities are intuitive  |  
 
-### Milestone 2 — Enable Staking for DOT
+### Milestone 2 — Enable Staking for DOT and KSM
 
 * **Estimated Duration:** 8 weeks 
 * **FTE:**  2
@@ -140,7 +140,7 @@ The major deliverable of for this milestone:
   * 28 days locking period for unstaking tokens
   * Slashing scenarios
   * Relay tokens to validators
-* Users will be able to stake DOT tokens, and receives xDOT in return. xDOT will then start accruing interests from staking and also be used for lending or transfered elsewhere for payment or trading.
+* Users will be able to stake DOT tokens, and receives xDOT in return. xDOT will then start accruing interests from staking and also be used for lending or transfered elsewhere for payment or trading. Similarly, staked KSM will be converted to xKSM with the same features as xDOT.
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
