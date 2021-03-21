@@ -160,9 +160,9 @@ The major deliverable of for this milestone:
 ## Future Plans
 
 **Community Development**:
-- In the short term, we will focus a lot of our energy in acquiring early users for our platform, who are large token holders and institutions. The exchange rate will be lower initially as the pool size and number of blocks are lower, so there's a strong incentive for larger players to join early. In addition, as the Kusama and Polkadot mainnets are approaching, we will be forming partnership with validators who might be interested in forming partnerships or use our platform to gain liquidity on their staked tokens.
-- We will also be posting on social media (Twitter, Medium, Youtube) to provide video tutorials regarding our platform and work with influencers, who can provide clear guidance to the mainstream users on how to use our platform.
-- Our long term plan is to provide a suite of products that will allow users to earn additional interests for their assets on our Defi, as we truly believe in the benefits of decentralization and allowing the more mainstream investors to participate in the financial economy.
+- In the short term, we will focus on acquiring the early users for our platform, who are large token holders and institutions. The exchange rate will be lower initially as the pool size and number of blocks are lower, so there's a strong incentive for larger players to deposit their tokens early on. As the Kusama and Polkadot mainnets are approaching, we will be forming partnership with validators who might be interested in forming partnerships or use our platform to gain liquidity on their staked tokens.
+- We will frequently post on social media (Twitter, Medium, Youtube) to provide development news and video tutorials regarding our platform. We will also work with influencers, who can break down complex concepts and provide clear guidance to the mainstream users on how to use our platform.
+- Our long term plan is to provide a suite of products that will allow users to earn superior interests with their assets on our Defi platform, as we truly believe in the benefits of decentralization and allowing more mainstream investors to participate in the financial economy.
 
 **Product Development**:
 * This is our tentative development roadmap for the rest of this year:
@@ -171,9 +171,9 @@ The major deliverable of for this milestone:
 
 ## Additional Information :heavy_plus_sign: 
 
-* We are a team that met and formed during the March 2021 Polkadot Hackathon in Shanghai. Our team members are both in the US and China, and come from a background in engineering (crypto/blockchain, traditional tech company), product management and financial background (venture capital, Defi). We were able to deliver our proof of concept at a really quick pace, earning third spot at the Hackathon.
+* We are a team that met and formed during the March 2021 Polkadot Hackathon in Shanghai. Our team members are both in the US and China, and come from a strong engineering background (crypto/blockchain, startup, traditional tech company), product management and financial background (venture capital, Defi). We were able to deliver our proof of concept within a month, and earned third place at the Hackathon.
 
-* We are currently still in the process of creating our white paper, but you can find more details about our platform on our gitbook: https://docs.parallel.fi/.
+* We are currently still in the process of creating our white paper, but you can find more details about our documentation on our gitbook: https://docs.parallel.fi/.
 
 * Email: team@parallel.fi
 * Website: parallel.fi
