@@ -188,13 +188,13 @@ The major deliverable of for this milestone:
 - Our long term plan is to provide a suite of products that will allow users to earn additional interests for their assets on our Defi, as we truly believe in the benefits of decentralization and allowing the more mainstream investors to participate in the financial economy.
 
 **Product Development**:
--This is our tentative development roadmap for the rest of this year:
+* This is our tentative development roadmap for the rest of this year:
 ![image](https://user-images.githubusercontent.com/56744348/111891918-94ebaa80-89c4-11eb-8707-a16b33e7b54c.png)
 
 
 ## Additional Information :heavy_plus_sign: 
 
-We are a team that met and formed during the March 2021 Polkadot Hackathon in Shanghai. Our team members are both in the US and China, and we have been able to deliver our proof of concept at a really quick pace, earning second spot during the preliminary rounds.
+We are a team that met and formed during the March 2021 Polkadot Hackathon in Shanghai. Our team members are both in the US and China, and come from a background in engineering (crypto/blockchain, traditional tech company), product mangement and financial background (venture capital, Defi). We were able to deliver our proof of concept at a really quick pace, earning second spot during the preliminary rounds.
 
 We are currently still in the process of creating our white paper, but you can find more details about our platform on our gitbook: https://docs.parallel.fi/.
 
