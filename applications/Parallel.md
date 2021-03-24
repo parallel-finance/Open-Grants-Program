@@ -104,11 +104,11 @@ The lending protocol was inspired by compound protocol and our blockchain soluti
 ### Team's experience
 
 -   **Yubo Ruan**: Yubo is currently a venture investor at Polychain Capital and 8 Decimal Capital. Yubo previously worked at TrustToken as a solidity engineer and helped build the TrueFi uncollateralized lending protocol. Additionally, Yubo started Alisimba Technology with wide range of media coverage in China and was granted many national patents and innovation awards. Yubo studied computer science at Stanford University. 
--   **Zhou Yang**: Zhou is a senior blockchain engineer at Elastos and its Gelaxy group. At Elastos, Zhou contributed to the cli tool, cross-chain protocol, and merged mining specification. Additionally, Zhou was the point of contact with the world's top mining pool (F2Pool, BTCPool, ANTPool, and Huobipool), and successfully launched the Elastos mining business. Zhao also worked at large software tech companies and has 9 years of development experience. 
+-   **Yang Zhou**: Yang is a senior blockchain engineer at Elastos and its Gelaxy group. At Elastos, Yang contributed to the cli tool, cross-chain protocol, and merged mining specification. Additionally, Yang was the point of contact with the world's top mining pool (F2Pool, BTCPool, ANTPool, and Huobipool), and successfully launched the Elastos mining business. Yang also worked at large software tech companies and has 9 years of development experience. 
 -   **Remi Gai**: Remi is a software engineer with a background in product management, entrepreneurship and venture capital, and currently works at Microsoft. Previously, Remi worked as an early stage investor at 8 Decimal Capital, a crypto/blockchain focused fund, and was the co-founder of Bitsystems, a blockchain development firm based in Cambridge, Massachusetts.
 -   **Lipai Zhu**: Lipai has 4 years of experience in blockchain. For the past 2 years, Li Pai has been working as a blockchain engineer at JianXinZhuHe technology at Shenzhen and focuses on consortium blockchain. Prior, Lipai studied BitCoin, Ethereum and Solidity and won a prize at BSN Second developer competition and a grand prize at the 4th China Blockchain Development Competition (In Competition, his duty is design smart contract and develop it).
 -   **Cheng Jiang**: Cheng Jiang is a senior Fullstack Developer at Ubudu, experienced in Fullstack development, Network topology and Indoor Location System Algorithms.
--   **Hai Yi**: Hai Yi has 4 years experience in software engineering. He was a former sofware engineer at Swissborg, and trading product associate at the Bank of Montreal. Hai Yi holds a BSc in Computer Science degree from the University of Waterloo).
+-   **Hai Yi**: Hai Yi has 4 years experience in software engineering. He was a former software engineer at Swissborg, and trading product associate at the Bank of Montreal. Hai Yi holds a BSc in Computer Science degree from the University of Waterloo).
 
 ### Team Code Repos
 
@@ -122,16 +122,20 @@ The lending protocol was inspired by compound protocol and our blockchain soluti
 -   https://www.linkedin.com/in/cheng-jiang-2a414020a/
 -   https://www.linkedin.com/in/haiyi-zhong-6274108b/?originalSubdomain=ca
 -   https://www.linkedin.com/in/zhulipai/
+-   https://www.linkedin.com/in/yz89/
 
 ## Development Roadmap :nut_and_bolt:
 
 ### Overview
+* **Total Estimated Duration:** 4 months
+* **Full-time equivalent (FTE):**  6 FTE
+* **Total Costs:** 30k USD
 
 ### Milestone 1 — Implement Cross-chain support for DOT and KSM
 
 -   **Estimated Duration:** 8 weeks
 -   **FTE:** 2
--   **Costs:** 8.333 ETH (15,000 USD at $1,802/ETH)
+-   **Costs:** 15k USD
 
 The major deliverable of for this milestone:
 
@@ -154,7 +158,7 @@ The major deliverable of for this milestone:
 
 -   **Estimated Duration:** 8 weeks
 -   **FTE:** 2
--   **Costs:** 8.333 ETH (15,000 USD at $1,802/ETH)
+-   **Costs:** 15k USD
 
 The major deliverable of for this milestone:
 
